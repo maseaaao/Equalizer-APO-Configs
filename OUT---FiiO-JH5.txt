@@ -1,6 +1,5 @@
-Device: Realtek HD Audio 2nd output Realtek(R) Audio {02484dd4-f328-49b0-9e7c-9f19c2457999}; Динамики Realtek(R) Audio {ebd2bbc3-403d-4aad-a48c-87a0cfd99896}
+Device: Динамики Realtek(R) Audio {1562ebd1-83fd-45af-93a3-a14a06f4dbcb}; Realtek HD Audio 2nd output Realtek(R) Audio {bc691b57-257f-4359-81e7-3d0b3a69ee0b}
 # FiiO JS5 / AutoEq
-# Preamp: 0 dB
 Filter: ON LS Fc 80 Hz Gain -1.4 dB Q 0.7
 Filter: ON PK Fc 177 Hz Gain -4.9 dB Q 0.68
 Filter: ON PK Fc 841 Hz Gain 2.3 dB Q 1.57
