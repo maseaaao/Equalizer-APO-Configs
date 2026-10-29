@@ -5,6 +5,6 @@ VSTPlugin: Library "C:\Program Files\EqualizerAPO-XT\current\VSTPlugins\..\..\VS
 Filter: ON HP Fc 80 Hz
 Filter: ON LP Fc 20000 Hz
 VSTPlugin: Library "..\..\VSTPlugins\reagate-standalone.dll" Hipass 0.0045 Thresh 0.01 Attack 0.01 Release 0.09 Pre-open 0.032 Hold 0.25 Lowpass 0.75 SignIn 0 AudIn 0 Dry 0.000316228 Noise 3.16228e-08 Wet 0.99886 Hystrsis 0.668344 PreviewF 0 "RMS size" 0.02 Usemidi 0 MidiNote 0.543307 MidiChan 0 InvrtWet 0
-VSTPlugin: Library "..\..\VSTPlugins\reacomp-standalone.dll" Hipass 0.0045 Thresh 0.0794328 Ratio 0.0232323 Attack 0.014 Release 0.09 Pre-comp 0 resvd 0 Lowpass 0.8 SignIn 0 AudIn 0 Dry 3.16228e-08 Wet 1 AutoMkUp 0 PreviewF 0 "RMS size" 0.01 Knee 0.333333 AutoRel 0 ClsAttk 0 AntiAls 0
+VSTPlugin: Library "C:\Program Files\EqualizerAPO-XT\current\VSTPlugins\..\..\VSTPlugins\reacomp-standalone.dll" Thresh 0.0794328 Hipass 0.0045 Ratio 0.0232323 Attack 0.014 Release 0.05 Pre-comp 0 resvd 0 Lowpass 0.8 SignIn 0 AudIn 0 Dry 3.16228e-08 Wet 1 PreviewF 0 AutoMkUp 0 "RMS size" 0.01 Knee 0.333333 AutoRel 0 ClsAttk 0 AntiAls 0
 Preamp: 3.3 dB
 VSTPlugin: Library "C:\Program Files\EqualizerAPO-XT\current\VSTPlugins\..\..\VSTPlugins\LoudMax64 1.47.dll" Thresh 0.915909 Output 0.934091 "Fader Link" 0 "ISP Detection" 1 "Large GUI" 0
