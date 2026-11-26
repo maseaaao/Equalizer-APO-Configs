@@ -1,7 +1,19 @@
 Device: Динамики Realtek(R) Audio {1562ebd1-83fd-45af-93a3-a14a06f4dbcb}; QM22DFA NVIDIA High Definition Audio {215f4c27-9d42-4c1d-a6a3-7e51eb210027}; Mi Monitor NVIDIA High Definition Audio {b270ae1a-a586-49d6-a24c-a015bfb08e73}; Realtek HD Audio 2nd output Realtek(R) Audio {bc691b57-257f-4359-81e7-3d0b3a69ee0b}
-# FiiO JS5 / AutoEq
-Filter: ON LS Fc 80 Hz Gain -1.4 dB Q 0.7
-Filter: ON PK Fc 177 Hz Gain -4.9 dB Q 0.68
-Filter: ON PK Fc 841 Hz Gain 2.3 dB Q 1.57
-Filter: ON PK Fc 1821 Hz Gain 4.9 dB Q 2.35
-Filter: ON PK Fc 8629 Hz Gain 4 dB Q 2.1
+# FiiO JH5 / AutoEQ / Super Review
+Preamp: -5 dB
+# Bass correction
+Filter: ON LSC Fc 105 Hz Gain -0.4 dB Q 0.70
+Filter: ON PK Fc 177 Hz Gain -3.9 dB Q 0.68
+# Midrange correction
+Filter: ON PK Fc 841 Hz Gain 1.3 dB Q 1.57
+Filter: ON PK Fc 1821 Hz Gain 3.9 dB Q 2.35
+# Upper midrange correction
+Filter: ON PK Fc 2639 Hz Gain -3.7 dB Q 5.33
+Filter: ON PK Fc 3923 Hz Gain 3.3 dB Q 1.29
+Filter: ON PK Fc 4446 Hz Gain -5.4 dB Q 5.97
+# Treble correction
+Filter: ON PK Fc 6044 Hz Gain -2.9 dB Q 6.00
+Filter: ON PK Fc 8629 Hz Gain 3.0 dB Q 2.10
+Filter: ON HSC Fc 10000 Hz Gain 0.9 dB Q 0.70
+# PUBG / Footstep clarity
+Filter: ON PK Fc 3000 Hz Gain 1 dB Q 0.8
